@@ -28,3 +28,5 @@ Steven is a multi-skilled software developer. He is a Certified ScrumMaster and 
 Astrid is an IT Programme/Project and AGILE Digital Development Manager, Certified Scrum Master, NLP Practitioner and coach.
 
 [More about me on Linkedin](https://www.linkedin.com/in/asimonsen/)
+
+[CONTACT US](contact.md)

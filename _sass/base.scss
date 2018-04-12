@@ -1,0 +1,17 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+}
+
+a {
+  color: #c76f0d;
+  text-decoration: none;
+
+  &:hover {
+    border-bottom: dotted 1px #c76f0d;
+  }
+}

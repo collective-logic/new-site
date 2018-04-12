@@ -1,0 +1,108 @@
+content {
+  display: block;
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+header {
+  display: block;
+  flex: none;
+  height: 95px;
+  background-color: #1d4758;
+  color: #f6f6f6;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  h1 {
+    background: url(/assets/images/collective-white.png) center/contain no-repeat;
+    min-width: 180px;
+    min-height: 100px;
+    margin: 0;
+    display: flex;
+    float: left;
+
+    span {
+      display: none;
+    }
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    visibility: visible;
+    display: block;
+    float: right;
+    font-size: 22px;
+    line-height: 90px;
+
+    li {
+      display: inline-block;
+      vertical-align: middle;
+      padding: 0 12px;
+
+      a {
+        text-decoration: none;
+        color: #f6f6f6;
+
+        &:hover {
+          border-bottom: dotted 1px #eee;
+        }
+      }
+    }
+  }
+}
+
+main {
+  content {
+    padding-bottom: 50px;
+    padding-top: 105px;
+  }
+}
+
+footer {
+  display: block;
+  flex: none;
+  height: 155px;
+  border-bottom: dotted 2px #1d4db3;
+  background-color: #47484a;
+  color: #f6f6f6;
+  padding: 12px 0;
+
+  .copyright {
+    display: flex;
+    float: left;
+    font-size: 16px;
+    color: #d6d6d6;
+  }
+
+  .registered {
+    display: flex;
+    padding: 0 20%;
+
+    address {
+      width: 100%;
+      font-style: normal;
+
+      dl, dd, dt {
+        padding: 0;
+        margin: 0;
+      }
+
+      div {
+        font-size: 16px;
+        line-height: 36px;
+        font-style: italic;
+      }
+    }
+  }
+
+  .social {
+    display: flex;
+    float: right;
+  }
+}

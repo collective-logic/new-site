@@ -6,33 +6,36 @@ order: 1
 layout: website
 title: Welcome
 
-heroTitle: Digital business excellence with excellent digital business
+heroTitle: Making your business better&hellip; together
 heroImage: home-hero.jpg
 ---
 
-We focus on quality and innovation, using best-in-breed technology to deliver for our customers. We are passionate about creating
-solutions that help organisations navigate the unknown, drive change and create value through a unique blend of technology, creativity
-and innovation.
+At Collective Logic we have a passion for making business better for you.
 
-Collective Logic was founded in 2017 in Newcastle upon Tyne, as a collaboration between four exceptionally skilled and experienced
-software consultants.
+We know that sometimes in business you wish for the ‘magic button’ to make something less of a chore. Now, that could be
+better software than you have right now or new software you need, or it could be you just need a fresh set of eyes on
+how you work to make things run smoother and more efficiently.
 
-As part of the emerging digital enterprise hub in the North East we are here to provide all of our customers with cutting edge
-solutions to help turn their digital aspirations into reality.
+This is where we come in.
 
-We already work with a wide range of global businesses covering Finance and Banking, Pharmaceutical, Public Sector, UK Government and
-many more...
+We have a highly professional team of multi-skilled, industry experts in software design, development and delivery.
+This is our life, our passion, this is what we do and we love to share our knowledge and skills with you so that we can
+help you make your business even better.
+
+We are a new company and we have a lifetime of experience in the industry in many different business sectors.
+Collective Logic is part of the vast growing Digital enterprise in the North East and we support the values of
+collaboration and ethical growth within our own sector, which supports the progression and development of other
+businesses.
+
+We have taken what we know and created a company to give you the best and most effective experience to ensure that your
+business will flourish.
+
 
 ### What we do
-- User Experience & Digital Design
-- Software Architecture & Design
-- Cloud Infrastructure, hosting and domain purchase
-- Agile Software Development
+- Business development
+- User experience &amp; digital design
+- Software architecture &amp; design
+- Cloud infrastructure &amp; hosting
+- Agile software development
 
-We create innovative, flexible, sustainable, resilient and secure solutions to suit the goals of your business.
-
-### Best-in-breed solutions
-
-Find out more about why Collective Logic are the perfect partner for your ambitious digital projects.
-
-[OUR APPROACH](approach.md){:.btn .btn-primary}
+[Our approach](approach.md){:.btn .btn-primary}

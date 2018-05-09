@@ -27,6 +27,11 @@ header {
             background: url(/assets/images/collective-logic.png) center/contain no-repeat;
             min-width: 160px;
             min-height: 100px;
+
+            &:hover {
+                border: none;
+                text-decoration: none;
+            }
         }
 
         span {

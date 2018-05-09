@@ -1,12 +1,11 @@
 <header>
-  <content>
-    <h1><span>Collective Logic</span></h1>
+    <content>
+        <h1><a href="/"><span>Collective Logic</span></a></h1>
 
-    <ul class="nav">
-      <li><a href="/index.html">Home</a></li>
-      <li><a href="/approach.html">Our Approach</a></li>
-      <li><a href="/team.html">Meet the Team</a></li>
-      <li><a href="/contact.html">Contact Us</a></li>
-    </ul>
-  </content>
+        <ul class="nav">
+            {% assign nav_items = site.pages | sort:'order' %}
+            {% assign navgroup = 'MainNav' %}
+            {% include nav_items %}
+        </ul>
+    </content>
 </header>

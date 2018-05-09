@@ -1,19 +1,28 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+    {% include head.html %}
 
-  <body>
-    {% include header.html %}
+    <body>
+        <div class="cl-container">
+            {% include header.html %}
 
-    <main>
-      <content>
-        <h2>{{ page.title }}</h2>
-        {{ content }}
-      </content>
-    </main>
+            {% if page.heroImage %}
+            <section class="hero" style="background-image: url('/assets/images/{{ page.heroImage }}');">
+                {% if page.heroImage %}
+                <h2><span>{{ page.heroTitle }}</span></h2>
+                {% endif %}
+            </section>
+            {% endif %}
 
-    {% include footer.html %}
-    {% include scripts.html %}
-  </body>
+            <main>
+                <content>
+                    {{ content }}
+                </content>
+            </main>
+
+            {% include footer.html %}
+            {% include scripts.html %}
+        </div>
+    </body>
 </html>

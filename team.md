@@ -1,35 +1,61 @@
 ---
-title: Meet the Team
+navgroup: 'MainNav'
+navTitle: Team
+order: 3
+
 layout: website
+title: Meet the Team
+
+heroTitle: Our team brings a wealth of experience to your business
+heroImage: team-hero.jpg
 ---
 
-### Graeme Dougal
-I like to take our customers vision and help turn it into reality
-Graeme is a highly skilled Enterprise Architect with extensive experience; architecting, designing and building medium to large-scale systems for major blue chip clients using the most up to date open source technologies and best of breed frameworks.
+## Meet the Team
 
-[More about me on Linkedin](https://www.linkedin.com/in/graemedougal/)
+Our passion is technology, our motivation is to enhance and improve your business experience. We create lasting
+partnerships with you, we work alongside you to design and build what you need to help your business grow.
+
+We are a tight-knit team of iterative and multi-disciplinary digital professionals. We are experts in what we do, have a
+look&hellip;
+
+### Graeme Dougal
+Graeme is our Technical Architect with over 20 years experience in software development, design and technical
+architecture across many industry sectors including finance, telecoms, government, travel and more.
+
+Graeme is able to use his vast technical experience and background to ensure you get the right technology and solution
+to suit your needs.  
+
+
+{:.linkedin}
+[<i class="fab fa-linkedin"></i> More about Graeme on Linkedin](https://www.linkedin.com/in/graemedougal/)
 
 ### Michael Dunbar
-I like to transform complex digital transactions into clear and simple human interfaces
-Michael is an experienced user interface developer with a masters in computing and a passion for creating enjoyable user experiences.
+Michael is our head of user experience and has helped create several award winning interfaces for web based and mobile
+products during his career.
 
-[More about me on Linkedin](https://www.linkedin.com/in/michaelsdunbar/)
+He is passionate about user centred software design & development and will ensure you and your customers are at the
+heart of the product we deliver.
+
+{:.linkedin}
+[<i class="fab fa-linkedin"></i> More about Michael on Linkedin](https://www.linkedin.com/in/michaelsdunbar/)
 
 ### Brian Griffin
-I like exploring new technologies to make things quicker and easier for our customers
-Brian has over 17 years experience developing web applications, specialising in front-end application development using the latest tools and technologies.
+Brian is
 
-[More about me on Linkedin](https://www.linkedin.com/in/brianjamesgriffin/)
+{:.linkedin}
+[<i class="fab fa-linkedin"></i> More about Brian on Linkedin](https://www.linkedin.com/in/brianjamesgriffin/)
 
 ### Steven Rowney
-I like to solve problems by writing code
-Steven is a multi-skilled software developer. He is a Certified ScrumMaster and AWS Certified Solution Architect Associate.
+Steven is
 
-[More about me on Linkedin](https://www.linkedin.com/in/steven-rowney/)
+{:.linkedin}
+[<i class="fab fa-linkedin"></i> More about Steven on Linkedin](https://www.linkedin.com/in/steven-rowney/)
 
 ### Astrid Simonsen
-Astrid is an IT Programme/Project and AGILE Digital Development Manager, Certified Scrum Master, NLP Practitioner and coach.
+Astrid is our Account Manager. With over 20 years experience of the technology industry, at all levels, she understands
+how important it is to collaborate and build lasting relationships with our clients from beginning to end and beyond.
+Her focus is ensuring that you are our priority and that we deliver products and services to you that you actually need,
+successfully.
 
-[More about me on Linkedin](https://www.linkedin.com/in/asimonsen/)
-
-[CONTACT US](contact.md)
+{:.linkedin}
+[<i class="fab fa-linkedin"></i> More about Astrid on Linkedin](https://www.linkedin.com/in/asimonsen/)

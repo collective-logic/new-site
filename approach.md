@@ -1,9 +1,16 @@
 ---
-title: Our Approach to excellent digital business
+navgroup: 'MainNav'
+navTitle: Approach
+order: 2
+
 layout: website
+title: Our Approach to excellent digital business
+
+heroTitle: Our Approach to excellent digital business
+heroImage: approach-hero.jpg
 ---
 
-### An agile and proven successful way
+## An agile and proven successful way
 
 Collective Logic have the experience and knowledge to deliver solutions efficiently and effectively using the
 best approach to fit the customer need. What works well is what is important to us and to you.
@@ -28,4 +35,4 @@ Managing the creation of your products will be professional, collaborative and e
 product and your business to be a success. Our passion is to deliver excellent solutions to excellent businesses,
 like yours.
 
-[MEET THE TEAM](team.md)
+[MEET THE TEAM](team.md){:.btn .btn-primary}

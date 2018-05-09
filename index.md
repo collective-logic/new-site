@@ -1,9 +1,14 @@
 ---
-title: Welcome
-layout: website
----
+navgroup: 'MainNav'
+navTitle: Home
+order: 1
 
-### Digital business excellence with excellent digital business
+layout: website
+title: Welcome
+
+heroTitle: Digital business excellence with excellent digital business
+heroImage: home-hero.jpg
+---
 
 We focus on quality and innovation, using best-in-breed technology to deliver for our customers. We are passionate about creating
 solutions that help organisations navigate the unknown, drive change and create value through a unique blend of technology, creativity
@@ -30,4 +35,4 @@ We create innovative, flexible, sustainable, resilient and secure solutions to s
 
 Find out more about why Collective Logic are the perfect partner for your ambitious digital projects.
 
-[OUR APPROACH](approach.md)
+[OUR APPROACH](approach.md){:.btn .btn-primary}

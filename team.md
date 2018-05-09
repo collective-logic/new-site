@@ -25,7 +25,6 @@ architecture across many industry sectors including finance, telecoms, governmen
 Graeme is able to use his vast technical experience and background to ensure you get the right technology and solution
 to suit your needs.  
 
-
 {:.linkedin}
 [<i class="fab fa-linkedin"></i> More about Graeme on Linkedin](https://www.linkedin.com/in/graemedougal/)
 
@@ -40,7 +39,11 @@ heart of the product we deliver.
 [<i class="fab fa-linkedin"></i> More about Michael on Linkedin](https://www.linkedin.com/in/michaelsdunbar/)
 
 ### Brian Griffin
-Brian is
+Brian is our Front-end Architect, focussed on making your online applications lightning fast, simple to use,
+and easy to maintain.
+
+With over 18 years experience developing online applications, this experience combined with a real passion for
+new technology, ensures we're working with the right technologies for your project.
 
 {:.linkedin}
 [<i class="fab fa-linkedin"></i> More about Brian on Linkedin](https://www.linkedin.com/in/brianjamesgriffin/)
@@ -54,6 +57,7 @@ Steven is
 ### Astrid Simonsen
 Astrid is our Account Manager. With over 20 years experience of the technology industry, at all levels, she understands
 how important it is to collaborate and build lasting relationships with our clients from beginning to end and beyond.
+
 Her focus is ensuring that you are our priority and that we deliver products and services to you that you actually need,
 successfully.
 

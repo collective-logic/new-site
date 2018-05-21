@@ -29,7 +29,7 @@ to suit your needs.
 [<i class="fab fa-linkedin"></i> More about Graeme on Linkedin](https://www.linkedin.com/in/graemedougal/)
 
 ### Michael Dunbar
-Michael is our head of user experience and has helped create several award winning interfaces for web based and mobile
+Michael is our Head of User Experience and has helped create several award winning interfaces for web based and mobile
 products during his career.
 
 He is passionate about user centred software design & development and will ensure you and your customers are at the
@@ -49,7 +49,9 @@ new technology, ensures we're working with the right technologies for your proje
 [<i class="fab fa-linkedin"></i> More about Brian on Linkedin](https://www.linkedin.com/in/brianjamesgriffin/)
 
 ### Steven Rowney
-Steven is
+Steven is our Head of Operations.  A multi-skilled engineer, having worked for some of the biggest IT companies in the world, Steven looks after development and operations. He makes sure we're able to scale to your customers demands and our development processes are as slick as possible.
+
+Steven is an Certified Scrum Master and Certified AWS Solutions Architect Associate.
 
 {:.linkedin}
 [<i class="fab fa-linkedin"></i> More about Steven on Linkedin](https://www.linkedin.com/in/steven-rowney/)

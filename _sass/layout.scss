@@ -1,0 +1,200 @@
+content {
+    display: block;
+    margin: 0 auto;
+    max-width: $content-max-width;
+
+    padding: 0 40px;
+}
+
+header {
+    min-width: $content-min-width;
+    display: block;
+    flex: none;
+    height: 100px;
+    background-color: $white-light;
+    color: $primary-main;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    h1 {
+        margin: 0;
+        display: flex;
+        float: left;
+
+        a {
+            background: url(/assets/images/collective-logic.png) center/contain no-repeat;
+            min-width: 160px;
+            min-height: 100px;
+
+            &:hover {
+                border: none;
+                text-decoration: none;
+            }
+        }
+
+        span {
+          display: none;
+        }
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        position: relative;
+        visibility: visible;
+        display: block;
+        float: right;
+        font-size: 22px;
+        line-height: 90px;
+
+        li {
+            display: inline-block;
+            vertical-align: middle;
+            padding: 0 12px;
+            margin: 0;
+
+            a {
+                text-decoration: none;
+                color: $primary-link;
+                margin-bottom: 4px;
+                padding-bottom: 4px;
+
+                &:hover {
+                    color: $primary-link-hover;
+                    border-bottom: 1px dotted $primary-main;
+                }
+            }
+
+            &.active a {
+                margin-bottom: 1px;
+                border-bottom: 4px solid $primary-main;
+            }
+        }
+    }
+}
+
+.hero {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    padding-top: 95px;
+    height: 160px;
+
+    h2 {
+        font-size: 32px;
+        font-weight: 200;
+        line-height: 50px;
+        margin: 75px 0 0;
+        color: $white-light;
+
+        span {
+            margin: 0 auto;
+            max-width: $content-max-width;
+            padding: 0 40px;
+            display: block;
+        }
+    }
+}
+
+main {
+    content {
+        padding-bottom: 50px;
+        padding-top: 20px;
+    }
+
+    h2 {
+        font-weight: 200;
+        color: $primary-main;
+        font-size: 26px;
+        margin-top: 8px;
+    }
+
+    h3 {
+        font-weight: 400;
+        color: $primary-main;
+        font-size: 24px;
+    }
+
+    address {
+        margin-left: 32px;
+        font-style: normal;
+    }
+
+    .social-media {
+        list-style: none;
+
+        a {
+            line-height: 32px;
+        }
+
+        i {
+            color: $secondary-light;
+            font-size: 18px;
+        }
+    }
+}
+
+footer {
+    display: block;
+    flex: none;
+    height: 155px;
+    background-color: $secondary-main;
+    color: $white;
+    padding: 12px 0;
+
+    .registered {
+        display: flex;
+        padding: 0 20% 0 0;
+
+        address {
+            width: 100%;
+            font-style: normal;
+
+            dl, dd, dt {
+                padding: 0;
+                margin: 0;
+            }
+
+            div {
+                font-size: 16px;
+                line-height: 36px;
+                font-style: italic;
+            }
+        }
+    }
+
+    .social {
+        display: flex;
+        float: right;
+
+        ul {
+            list-style: none;
+        }
+
+        li {
+            display: inline-block;
+            margin: 0;
+
+            span {
+                display: none;
+            }
+
+            a {
+                font-size: 30px;
+                color: $white;
+                margin-left: 8px;
+
+                &:hover, &active {
+                    text-decoration: none;
+                    border-bottom: none;
+                    color: $white-dark;
+                }
+            }
+        }
+    }
+}

@@ -21,34 +21,6 @@ look&hellip;
 <section class="bios">
     <div class="bio">
         <div class="content">
-            <h3>Graeme Dougal</h3>
-
-            <p>Graeme is our Technical Architect with over 20 years experience in software development, design and technical
-            architecture across many industry sectors including finance, telecoms, government, travel and more.</p>
-
-            <p>Graeme is able to use his vast technical experience and background to ensure you get the right technology and solution
-            to suit your needs.</p>
-
-            <a href="https://www.linkedin.com/in/graemedougal/" class="linkedin"><i class="fab fa-linkedin"></i> More about Graeme on Linkedin</a>
-        </div><div class="photo graeme"><span>Graeme</span></div>
-    </div>
-
-    <div class="bio">
-        <div class="photo brian"><span>Brian</span></div><div class="content">
-            <h3>Brian Griffin</h3>
-
-            <p>Brian is our Front-end Architect, focussed on making your online applications lightning fast, simple to use,
-            and easy to maintain.</p>
-
-            <p>With over 18 years experience developing online applications, this experience combined with a real passion for
-            new technology, ensures we're working with the right technologies for your project.</p>
-
-            <a href="https://www.linkedin.com/in/brianjamesgriffin/" class="linkedin"><i class="fab fa-linkedin"></i> More about Brian on Linkedin</a>
-        </div>
-    </div>
-
-    <div class="bio">
-        <div class="content">
             <h3>Astrid Simonsen</h3>
 
             <p>Astrid is our Account Manager. With over 20 years experience of the technology industry, at all levels, she understands
@@ -72,6 +44,34 @@ look&hellip;
             heart of the product we deliver.</p>
 
             <a href="https://www.linkedin.com/in/michaelsdunbar/" class="linkedin"><i class="fab fa-linkedin"></i> More about Michael on Linkedin</a>
+        </div>
+    </div>
+    
+    <div class="bio">
+        <div class="content">
+            <h3>Graeme Dougal</h3>
+
+            <p>Graeme is our Technical Architect with over 20 years experience in software development, design and technical
+            architecture across many industry sectors including finance, telecoms, government, travel and more.</p>
+
+            <p>Graeme is able to use his vast technical experience and background to ensure you get the right technology and solution
+            to suit your needs.</p>
+
+            <a href="https://www.linkedin.com/in/graemedougal/" class="linkedin"><i class="fab fa-linkedin"></i> More about Graeme on Linkedin</a>
+        </div><div class="photo graeme"><span>Graeme</span></div>
+    </div>
+
+    <div class="bio">
+        <div class="photo brian"><span>Brian</span></div><div class="content">
+            <h3>Brian Griffin</h3>
+
+            <p>Brian is our Front-end Architect, focussed on making your online applications lightning fast, simple to use,
+            and easy to maintain.</p>
+
+            <p>With over 18 years experience developing online applications, this experience combined with a real passion for
+            new technology, ensures we're working with the right technologies for your project.</p>
+
+            <a href="https://www.linkedin.com/in/brianjamesgriffin/" class="linkedin"><i class="fab fa-linkedin"></i> More about Brian on Linkedin</a>
         </div>
     </div>
 

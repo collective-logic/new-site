@@ -1,12 +1,15 @@
 .btn {
+    display: inline-block;
     border-width: 1px;
     border-style: solid;
     padding: 4px 8px;
-    font-size: 14px;
+    font-size: 18px;
     border-radius: 4px;
 }
 
 .btn-primary {
+    margin: 8px 0;
+
     color: $btn-primary-color;
     background-color: $btn-primary-bg;
     border-color: $btn-primary-border;

@@ -125,5 +125,5 @@ United Kingdom, NE1 6UF
 - {:.social-media}[<i class="fas fa-envelope"></i> hello@collective-logic.co.uk](mailto:hello@collective-logic.co.uk)
 
 ### Follow us
-- {:.social-media}[<i class="fab fa-linkedin"></i> @collectivelgc](https://twitter.com/collectivelgc)
-- {:.social-media}[<i class="fab fa-twitter-square"></i> Collective Logic](https://www.linkedin.com/company-beta/11159490/)
+- {:.social-media}[<i class="fab fa-twitter-square"></i> @collectivelgc](https://twitter.com/collectivelgc)
+- {:.social-media}[<i class="fab fa-linkedin"></i> Collective Logic](https://www.linkedin.com/company-beta/11159490/)

@@ -157,14 +157,13 @@ header {
 
     h2 {
         font-size: 28px;
-        font-weight: 200;
+        font-weight: 300;
         line-height: 36px;
         margin: 24px 0 0;
         color: $white-light;
 
         @media all and (min-width: $content-min-width) {
             font-size: 32px;
-            line-height: 50px;
             margin: 72px 0 0;
         }
 
@@ -184,7 +183,7 @@ main {
     }
 
     h2 {
-        font-weight: 200;
+        font-weight: 300;
         color: $primary-main;
         font-size: 26px;
         margin-top: 8px;

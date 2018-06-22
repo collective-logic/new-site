@@ -16,17 +16,19 @@ There are a variety of ways to get in contact with Collective Logic and we'd lov
 
 <address>
 Collective Logic Ltd<br>
-Campus North 5 Sunco House<br>
-Carliol Square<br>
+THE CORE<br>
+Science Central<br>
+Bath Lane<br>
 Newcastle upon Tyne<br>
-United Kingdom, NE1 6UF
+United Kingdom, NE4 5TF
 </address>
 
 <div id="cl-map"></div>
 
 <script>
     function initMap() {
-        var collectivelogic = { lat: 54.972864, lng: -1.608659 };
+        var collectivelogic = { lat: 54.972544, lng: -1.623027 };
+
         var map = new google.maps.Map(document.getElementById('cl-map'), {
             zoom: 17,
             center: collectivelogic,

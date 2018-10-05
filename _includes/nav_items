@@ -1,0 +1,11 @@
+{% for node in nav_items %}
+  {% if navgroup == null or navgroup == node.navgroup %}
+    {% if page.url == node.url %}
+      <li class="active"><a href="{{node.url}}" class="active">{{node.navTitle}}</a></li>
+    {% else %}
+      <li><a href="{{node.url}}">{{node.navTitle}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign nav_items = nil %}
+{% assign group = nil %}

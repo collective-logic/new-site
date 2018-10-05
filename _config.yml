@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: Collective Logic
 description: Digital business excellence with excellent digital business
+sass:
+  sass_dir: _sass
+  style: compressed

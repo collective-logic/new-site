@@ -1,0 +1,14 @@
+<header>
+    <content>
+        <h1><a href="/"><span>Collective Logic</span></a></h1>
+
+        <div>
+            <i id="menuToggle" class="fas fa-bars"></i>
+            <ul id="menu" class="nav">
+                {% assign nav_items = site.pages | sort:'order' %}
+                {% assign navgroup = 'MainNav' %}
+                {% include nav_items %}
+            </ul>
+        </div>
+    </content>
+</header>

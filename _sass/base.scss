@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    background-color: $white;
+    min-width: 400px;
+}
+
+a {
+    color: $primary-link;
+    text-decoration: none;
+
+    &:hover {
+        border-bottom: dotted 1px $primary-link;
+    }
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-left: 32px;
+}

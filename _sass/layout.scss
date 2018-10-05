@@ -1,0 +1,283 @@
+content {
+    display: block;
+    margin: 0 auto;
+    max-width: $content-max-width;
+
+    padding: 0 40px;
+}
+
+header {
+    min-width: $mobile-min-width;
+    display: block;
+    flex: none;
+    height: 100px;
+    background-color: $white-light;
+    color: $primary-main;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+
+    h1 {
+        margin: 0;
+        display: flex;
+        float: left;
+
+        a {
+            background: url(/assets/images/collective-logic.png) center/contain no-repeat;
+            min-width: 160px;
+            min-height: 100px;
+
+            &:hover {
+                border: none;
+                text-decoration: none;
+            }
+        }
+
+        span {
+          display: none;
+        }
+    }
+
+    i.fas {
+        margin: 0;
+        padding: 6px 12px;
+        text-align: center;
+        position: relative;
+        visibility: visible;
+        display: block;
+        float: right;
+        font-size: 42px;
+        line-height: 88px;
+        cursor: pointer;
+
+        &:hover {
+            color: $primary-link;
+        }
+
+        @media all and (min-width: $content-min-width) {
+            display: none;
+        }
+    }
+
+    ul {
+        display: block;
+        list-style: none;
+        background-color: #12515d;
+        position: absolute;
+        right: -100%;
+        top: 100px;
+        left: 100%;
+        padding: 18px 0;
+        transition: all 0.5s ease 0.2s;
+        z-index: -1;
+
+        &.show {
+            right: 0;
+            left: 0;
+            z-index:1;
+        }
+
+        @media all and (min-width: $content-min-width) {
+            left: inherit;
+            right: inherit;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            position: relative;
+            visibility: visible;
+            display: block;
+            float: right;
+            font-size: 22px;
+            line-height: 90px;
+            top: auto;
+            background-color: inherit;
+            transition: none;
+        }
+
+        li {
+            font-size: 22px;
+            text-align: center;
+            padding: 2px 40px;
+            margin: 0;
+
+            a {
+                display: block;
+                color: $white-dark;
+
+                &:hover {
+                    color: $primary-link-hover;
+                    border-bottom: none;
+                }
+            }
+
+            &.active a {
+                color: $primary-link-active;
+                border-bottom: none;
+                // margin-bottom: 1px;
+                // border-bottom: 4px solid $primary-main;
+            }
+
+            @media all and (min-width: $content-min-width) {
+                display: inline-block;
+                vertical-align: middle;
+                padding: 0 12px;
+                margin: 0;
+
+                a {
+                    display: inline;
+                    text-decoration: none;
+                    color: $primary-link;
+                    margin-bottom: 4px;
+                    padding-bottom: 4px;
+
+                    &:hover {
+                        color: $primary-link-hover;
+                        border-bottom: 1px dotted $primary-main;
+                    }
+                }
+
+                &.active a {
+                    margin-bottom: 1px;
+                    border-bottom: 4px solid $primary-main;
+                }
+            }
+        }
+    }
+}
+
+.hero {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    padding-top: 95px;
+    height: 160px;
+
+    h2 {
+        font-size: 28px;
+        font-weight: 300;
+        line-height: 36px;
+        margin: 24px 0 0;
+        color: $white-light;
+
+        @media all and (min-width: $content-min-width) {
+            font-size: 32px;
+            margin: 72px 0 0;
+        }
+
+        span {
+            margin: 0 auto;
+            max-width: $content-max-width;
+            padding: 0 40px;
+            display: block;
+        }
+    }
+}
+
+main {
+    content {
+        padding-bottom: 50px;
+        padding-top: 20px;
+        line-height: 1.4em;
+    }
+
+    h2 {
+        font-weight: 300;
+        color: $primary-main;
+        font-size: 26px;
+        margin-top: 8px;
+    }
+
+    h3 {
+        font-weight: 400;
+        color: $primary-main;
+        font-size: 24px;
+    }
+
+    address {
+        margin-left: 32px;
+        font-style: normal;
+    }
+
+    .social-media {
+        list-style: none;
+
+        a {
+            line-height: 32px;
+        }
+
+        i {
+            color: $secondary-light;
+            font-size: 18px;
+        }
+    }
+}
+
+footer {
+    display: block;
+    flex: none;
+    min-height: 155px;
+    background-color: $secondary-main;
+    color: $white;
+    padding: 12px 0;
+
+    .registered {
+        @media all and (min-width: $content-min-width) {
+            display: flex;
+            padding: 0 20% 0 0;
+        }
+
+        address {
+            width: 100%;
+            font-style: normal;
+
+            dl, dd, dt {
+                padding: 0;
+                margin: 0;
+            }
+
+            div {
+                font-size: 16px;
+                line-height: 20px;
+                padding: 8px 0;
+                font-style: italic;
+            }
+        }
+    }
+
+    .social {
+        display: none;
+
+        @media all and (min-width: $content-min-width) {
+            display: flex;
+            float: right;
+
+            ul {
+                list-style: none;
+            }
+
+            li {
+                display: inline-block;
+                margin: 0;
+
+                span {
+                    display: none;
+                }
+
+                a {
+                    font-size: 30px;
+                    color: $white;
+                    margin-left: 8px;
+
+                    &:hover, &active {
+                        text-decoration: none;
+                        border-bottom: none;
+                        color: $white-dark;
+                    }
+                }
+            }
+        }
+    }
+}

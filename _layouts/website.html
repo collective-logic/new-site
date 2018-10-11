@@ -18,7 +18,27 @@
 
             <main>
                 <content>
-                    {{ content }}
+                    {% if page.aside %}
+                    <div class="row">
+                        <div class="main">
+                            {{ content }}
+                        </div>
+
+                        <aside>
+                            <!-- TODO: how to deliver this content dynamically? -->
+                            <h3>What we do</h3>
+                            <ul>
+                                <li>Business development</li>
+                                <li>User experience &amp; digital design</li>
+                                <li>Software architecture &amp; design</li>
+                                <li>Cloud infrastructure &amp; hosting</li>
+                                <li>Agile software development</li>
+                            </ul>
+                        </aside>
+                        {% else %}
+                        {{ content }}
+                        {% endif %}
+                    </div>
                 </content>
             </main>
 

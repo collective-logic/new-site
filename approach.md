@@ -8,6 +8,9 @@ title: Our Approach to excellent digital business
 
 heroTitle: Our Approach to excellent digital business
 heroImage: approach-hero.jpg
+
+aside: true
+
 ---
 
 ## An agile and proven successful way
@@ -26,6 +29,6 @@ we, collectively believe is best for you and your business.
 We build lasting relationships with our clients, it’s all about trust, at the end of the day. We value collaboration
 with our clients, it’s the most effective way of doing business in our eyes. We are part of your journey to success.
 
-Our key values are to do the right thing, the right way, with the right technology, together.
+Our key values are to do the **right thing**, the **right way**, with the **right technology**, *together*.
 
 [Meet the team](team.md){:.btn .btn-primary}

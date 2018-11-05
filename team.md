@@ -37,7 +37,7 @@ look&hellip;
         <div class="photo michael"><span>Michael</span></div><div class="content">
             <h3>Michael Dunbar</h3>
 
-            <p>Michael is our head of user experience and has helped create several award winning interfaces for web based and mobile
+            <p>Michael is our Head of User Experience and has helped create several award winning interfaces for web based and mobile
             products during his career.</p>
 
             <p>He is passionate about user centred software design & development and will ensure you and your customers are at the

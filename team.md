@@ -34,21 +34,7 @@ look&hellip;
     </div>
 
     <div class="bio">
-        <div class="photo michael"><span>Michael</span></div><div class="content">
-            <h3>Michael Dunbar</h3>
-
-            <p>Michael is our Head of User Experience and has helped create several award winning interfaces for web based and mobile
-            products during his career.</p>
-
-            <p>He is passionate about user centred software design & development and will ensure you and your customers are at the
-            heart of the product we deliver.</p>
-
-            <a href="https://www.linkedin.com/in/michaelsdunbar/" class="linkedin"><i class="fab fa-linkedin"></i> More about Michael on Linkedin</a>
-        </div>
-    </div>
-    
-    <div class="bio">
-        <div class="content">
+        <div class="photo graeme"><span>Graeme</span></div><div class="content">
             <h3>Graeme Dougal</h3>
 
             <p>Graeme is our Technical Architect with over 20 years experience in software development, design and technical
@@ -58,11 +44,11 @@ look&hellip;
             to suit your needs.</p>
 
             <a href="https://www.linkedin.com/in/graemedougal/" class="linkedin"><i class="fab fa-linkedin"></i> More about Graeme on Linkedin</a>
-        </div><div class="photo graeme"><span>Graeme</span></div>
+        </div>
     </div>
 
     <div class="bio">
-        <div class="photo brian"><span>Brian</span></div><div class="content">
+        <div class="content">
             <h3>Brian Griffin</h3>
 
             <p>Brian is our Front-end Architect, focussed on making your online applications lightning fast, simple to use,
@@ -72,20 +58,6 @@ look&hellip;
             new technology, ensures we're working with the right technologies for your project.</p>
 
             <a href="https://www.linkedin.com/in/brianjamesgriffin/" class="linkedin"><i class="fab fa-linkedin"></i> More about Brian on Linkedin</a>
-        </div>
-    </div>
-
-    <div class="bio">
-        <div class="content">
-            <h3>Steven Rowney</h3>
-
-            <p>Steven is our Head of Operations.  A multi-skilled engineer, having worked for some of the biggest IT companies in the
-            world, Steven looks after development and operations. He makes sure we're able to scale to your customers demands and
-            our development processes are as slick as possible.</p>
-
-            <p>Steven is an Certified Scrum Master and Certified AWS Solutions Architect Associate.</p>
-
-            <a href="https://www.linkedin.com/in/steven-rowney/" class="linkedin"><i class="fab fa-linkedin"></i> More about Steven on Linkedin</a>
-        </div><div class="photo steven"><span>Steven</span></div>
+        </div><div class="photo brian"><span>Brian</span></div>
     </div>
 </section>

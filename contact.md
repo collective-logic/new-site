@@ -25,7 +25,7 @@ United Kingdom, NE4 5TF
 
 <div id="cl-map"></div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9160.158880758067!2d-1.6234029!3d54.9724026!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe448a2cb6d9116f0!2sThe+Core!5e0!3m2!1sen!2snl!4v1541363686167" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCTmZVfzYmYyvLQDN6QcaHA5JCwpu1IV9A&q=THE CORE, Newcastle upon Tyne" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### By email
 - {:.social-media}[<i class="fas fa-envelope"></i> hello@collective-logic.co.uk](mailto:hello@collective-logic.co.uk)
